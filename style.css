@@ -654,11 +654,12 @@ footer{
     }
 
     .info, #player{
-        margin-left: 70px;
+        margin-left: 10%;
     }
 
     .track-name{
         min-width: 70px;
+        font-size: 3rem;
     }
 
     audio{
