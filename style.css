@@ -455,6 +455,10 @@ a{
 footer{
     justify-content: space-between;
     margin-top: 5%;
+    background-color: #101010;
+
+    bottom: 0;
+    left: 0;
 }
 
 .links{
@@ -494,7 +498,12 @@ footer{
     padding: 0 5.2%;
 }
 
-
+@media (min-width: 1920px){
+    .backgrounds{
+        max-height: 5000px;
+        overflow: hidden;
+    }
+}
 
 @media (max-width: 1290px){
     .background{
