@@ -467,7 +467,7 @@ footer{
 }
 
 .l{
-    font-size: 8rem;
+    font-size: 5rem;
     line-height: 83%;
     width: fit-content;
 
@@ -550,7 +550,7 @@ footer{
     }
 
     .l{
-        font-size: 5rem;
+        font-size: 3rem;
     }
 
     .album{
@@ -791,7 +791,7 @@ footer{
     }
 
     .l{
-        font-size: 2rem;
+        font-size: 1rem;
     }
 
     .media{
