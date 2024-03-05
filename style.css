@@ -299,6 +299,10 @@ a{
     z-index: -1;
 }
 
+.background{
+    width: 100%;
+}
+
 /* Pre-relise */
 
 .pre-relise{
