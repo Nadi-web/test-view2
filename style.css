@@ -492,6 +492,84 @@ footer{
 
 
 
+@media (max-width: 1290px){
+    .background{
+        max-width: 100%;
+        object-fit: cover;
+        height: 2000px;
+    }
+
+    .spotify{
+        padding-right: 10%;
+    }
+}
+
+@media (max-width: 992px){
+    .background{
+        max-width: 100%;
+        object-fit: cover;
+        height: 2000px;
+    }
+
+    .marquee{
+        margin-top: 5%;
+    }
+
+    .menu a{
+        font-size: 1rem;
+    }
+
+    .navigation-buttons{
+        top:0;
+        left: 0;
+    }
+
+    .prev-button{
+        margin-right: 20px;
+    }
+
+    .artists{
+        margin-bottom: 30px;
+    }
+
+    .artist-image{
+        width: 420px;
+    }
+
+    .artists-container{
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+
+    .xl{
+        font-size: 7rem;
+    }
+
+    .l{
+        font-size: 5rem;
+    }
+
+    .album{
+        font-size: 1rem;
+    }
+
+    .num{
+        margin-right: 15px;
+    }
+
+    .track-container{
+        width: 85%;
+    }
+
+    .spotify{
+        width: 50%;
+        padding-right: 10%;
+    }
+
+}
+
+
+
 @media (max-width: 480px) {
     body{
         font-size: 10px;
@@ -640,7 +718,7 @@ footer{
     .background{
         width: 100%;
         object-fit: cover;
-        height: 2000px;
+        height: 3000px;
     }
 
     /* pre-relise */
@@ -654,7 +732,7 @@ footer{
     }
 
     .info, #player{
-        margin-left: 10%;
+        margin-left: 70px;
     }
 
     .track-name{
